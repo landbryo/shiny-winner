@@ -27,6 +27,7 @@ if ($sms_pref == 'on') {
   $sms = '';
 }
 
+// array of recipients
 $recipients = array(
   $admin_email,
   $owner_email,
