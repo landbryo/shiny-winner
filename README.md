@@ -6,9 +6,12 @@
 - Combines phone number and carrier data to send message via SMS to email.
 - Post submit opt-out confirmation.
 
-### Resources
+### Resources and Requirements
 Gravity Forms SMS to Email
 https://www.gravityforms.com/text-message-sms-form-notifications/
 
 Advanced Custom Fields Resouces
 https://www.advancedcustomfields.com/resources/
+
+Bootstrap Validator
+http://1000hz.github.io/bootstrap-validator/
